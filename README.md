@@ -25,9 +25,9 @@ int kurang(int, int);
 
 
 #endif // KAL_H_INCLUDED
+```
 
 ##isi
-
 ```
 #include<iostream>
 using namespace std;
@@ -47,9 +47,9 @@ return a+b;
 int kurang(int a, int b){
 return a-b;
 }
+```
 
 ##utama
-
 ```
 #include<iostream>
 #include<kal.h>
