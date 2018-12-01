@@ -85,7 +85,7 @@ int inputData(string v)
 ![flowchart](https://raw.githubusercontent.com/putrintans/Praktikum6/master/Latihan1/Flowchart1.jpg)
 
 
-## Latihan2.1
+## Latihan2.1 : Membuat fungsi menggunakan passing parameter by reference untuk menukar nilai dari dua buah variabel
 
 **Alur Algoritma**
 1. Mulai program untuk menukar nilai 
@@ -124,7 +124,7 @@ return 0;
 ![screenshoot](https://raw.githubusercontent.com/putrintans/Praktikum6/master/Latihan2.1/Screenshot2.1.png)
 ![flowchart](https://raw.githubusercontent.com/putrintans/Praktikum6/master/Latihan2.1/Flowchart2.1.jpg)
 
-## Latihan2.2
+## Latihan2.2 : Membuat fungsi perkalian 2 buah bilangan bulat dengan menggunakan operator penjumlahan
 
 **Alur Algoritma**
 1. Mulai program menghitung dua bilangan dengan oprator penjumlah
